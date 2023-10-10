@@ -22,7 +22,18 @@ public class HelloWorld {
          * 
          * Uma aplicação precisa ter, obrigatoriamente, o método main.
          */
-        System.out.println("Hello, Java!");
+        /*
+         * Tipos de Dados
+         * Números (int, double, float, long)
+         * Texto (String)
+         * Booleano (boolean)
+         */
+        int dadoDoTipoInt = 10;
+        double dadoDoTipoDouble = 3.14;
+        float dadoDoTipoFloat = 3.14f;
+        long dadoDoTipoLong = 98498446545465421L;
+        String dadoDoTipoString = "Bruno";
+        boolean dadoDoTipoBoolean = false;
     }
 }
 // Fora do escopo da classe
