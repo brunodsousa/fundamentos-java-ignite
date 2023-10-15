@@ -20,5 +20,8 @@ public class EstruturaDeDados {
         nomes.forEach(nome -> System.out.println("Nome: " + nome));
 
         nomes.forEach(System.out::println);
+        System.out.println(nomes.size()); // 3
+        System.out.println(nomes.isEmpty()); // false
+        System.out.println(nomes.contains("Bruno")); // true
     }
 }
