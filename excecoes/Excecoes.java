@@ -6,7 +6,7 @@ public class Excecoes {
     // tratadas; previstas
 
     // Unchecked exceptions: não previstas, o compilador não consegue saber que terá
-    // o erro
+    // o erro; só em tempo de execução
 
     public static void main(String[] args) {
         // try / catch
