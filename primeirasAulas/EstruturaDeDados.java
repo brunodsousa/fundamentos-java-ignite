@@ -1,3 +1,5 @@
+package primeirasAulas;
+
 import java.util.ArrayList;
 import java.util.List;
 // O import precisa vir, obrigatoriamente, antes da declaração de classes
